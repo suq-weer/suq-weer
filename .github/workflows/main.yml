@@ -2,7 +2,7 @@ name: Readme
 
 on:
   schedule:
-    - cron: '* 5 * * *'
+    - cron: '* 13 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
