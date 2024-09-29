@@ -1,6 +1,8 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/73773879?v=4" width="200px" /></p>
 <h2 align=center>Xiaosu（suq-weer）</h2>
 
+<p align=center><b>English</b> | <a href="https://github.com/suq-weer/suq-weer/blob/main/README_zh.md/">简体中文</a></p>
+
 <p align=center>An unknown person from a third-tier city in China~</p>
 
 <p align="center">
