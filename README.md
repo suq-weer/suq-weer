@@ -35,11 +35,11 @@
 <h2 align=center>My "Mental States"</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 28.7 kB Used in GitHub's Storage 
+> 📦 28.8 kB Used in GitHub's Storage 
  > 
 > 🏆 219 Contributions in the Year 2024
  > 
@@ -113,5 +113,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2024 13:59:33 UTC
+ Last Updated on 19/10/2024 14:23:20 UTC
 <!--END_SECTION:waka-->
