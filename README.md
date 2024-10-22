@@ -16,7 +16,7 @@
 
 <h2 align=center>Hi there 👋 Long time no see!</h2>
 
->I'm a sophomore in high school, GitHub is new, please advise!
+> I just came to GitHub, and I'm still a high school student, so please advise!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suq-weer/suq-weer/output/github-snake-dark.svg">
