@@ -35,7 +35,7 @@
 <h2 align=center>My "Mental States"</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,5 +109,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 13:52:49 UTC
+ Last Updated on 13/11/2024 14:14:29 UTC
 <!--END_SECTION:waka-->
