@@ -30,7 +30,7 @@
 
 <h2 align=center>My languages and tools</h2>
 
-<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cpp,cloudflare,css,git,gradle,godot,html,htmx,idea,java,js,latex,linux,mysql,neovim,nginx,nodejs,npm,php,py,pycharm,qt,sqlite,ts,vim,vscode,vue,windows,wordpress,visualstudio,ubuntu,github,powershell,md,githubactions,arch/" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cpp,cloudflare,css,git,gradle,godot,html,htmx,idea,java,js,latex,linux,mysql,neovim,nginx,nodejs,npm,php,py,pycharm,qt,sqlite,ts,vim,vscode,vue,windows,wordpress,visualstudio,arch,github,powershell,md,githubactions,/" /></p>
 
 <h2 align=center>My "Mental States"</h2>
 
