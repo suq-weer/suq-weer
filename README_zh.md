@@ -30,4 +30,4 @@
 
 <h2 align=center>我使用过的工具和语言</h2>
 
-<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cpp,cloudflare,css,git,gradle,godot,html,htmx,idea,java,js,latex,linux,mysql,neovim,nginx,nodejs,npm,php,py,pycharm,qt,sqlite,ts,vim,vscode,vue,windows,wordpress,visualstudio,ubuntu,github,powershell,md,githubactions,debian/" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cpp,cloudflare,css,git,gradle,godot,html,htmx,idea,java,js,latex,linux,mysql,neovim,nginx,nodejs,npm,php,py,pycharm,qt,sqlite,ts,vim,vscode,vue,windows,wordpress,visualstudio,ubuntu,github,powershell,md,githubactions,arch/" /></p>
