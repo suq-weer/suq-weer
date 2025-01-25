@@ -41,8 +41,6 @@
 
 > 📦 29.5 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -113,5 +111,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 13:30:58 UTC
+ Last Updated on 25/01/2025 13:42:32 UTC
 <!--END_SECTION:waka-->
