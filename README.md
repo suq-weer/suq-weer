@@ -39,7 +39,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 31.3 kB Used in GitHub's Storage 
+> 📦 31.2 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2025
  > 
@@ -76,20 +76,16 @@ Sunday                   102 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Gradle                   11 mins             █████████████████████████   99.05 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-EduSync                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,5 +105,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2025 14:11:49 UTC
+ Last Updated on 19/02/2025 13:25:20 UTC
 <!--END_SECTION:waka-->
