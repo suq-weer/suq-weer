@@ -28,9 +28,26 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=suq-weer&theme=catppuccin-mocha" /></p>
 
-<h2 align=center>My languages and tools</h2>
+<h2 align=center>Technologies I'm Proficient In</h2>
 
-<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cpp,cloudflare,css,git,gradle,godot,html,htmx,idea,java,js,latex,linux,mysql,neovim,nginx,nodejs,npm,php,py,pycharm,qt,sqlite,ts,vim,vscode,vue,windows,wordpress,visualstudio,arch,github,powershell,md,githubactions,/" /></p>
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=php,nginx,css,html,ts,nodejs,npm,mysql/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=java,nginx,css,html,ts,nodejs,npm,vue,/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=java,mysql,gradle/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,py,qt,/" />
+
+<h2 align=center>Technologies I'm Learning</h2>
+
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=godot/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=java,sqlite/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=cloudflare,wordpress/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=cpp/" />
+
+<h2 align=center>Tools I Use</h2>
+
+<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cloudflare,git,gradle,idea,latex,linux,neovim,nginx,pycharm,vim,vscode,visualstudio,github,powershell,githubactions,/" /></p>
+
+<h2 align=center>Operating Systems I'm Using</h2>
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=arch,windows/" />
 
 <h2 align=center>My "Mental States"</h2>
 

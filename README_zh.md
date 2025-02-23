@@ -16,7 +16,7 @@
 
 <h2 align=center>嗨！别来无恙啊！👋</h2>
 
->在读高二学生一枚！是一位蠢蠢的 GitHub 萌新（*/∇＼*），请多多指教！
+> 在读高二学生一枚！是一位蠢蠢的 GitHub 萌新（*/∇＼*），请多多指教！
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suq-weer/suq-weer/output/github-snake-dark.svg">
@@ -28,6 +28,23 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=suq-weer&theme=catppuccin-mocha&locale=zh_Hans" /></p>
 
-<h2 align=center>我使用过的工具和语言</h2>
+<h2 align=center>我擅长的技术</h2>
 
-<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cpp,cloudflare,css,git,gradle,godot,html,htmx,idea,java,js,latex,linux,mysql,neovim,nginx,nodejs,npm,php,py,pycharm,qt,sqlite,ts,vim,vscode,vue,windows,wordpress,visualstudio,arch,github,powershell,md,githubactions,/" /></p>
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=php,nginx,css,html,ts,nodejs,npm,mysql/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=java,nginx,css,html,ts,nodejs,npm,vue,/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=java,mysql,gradle/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,py,qt,/" />
+
+<h2 align=center>还在学习的技术</h2>
+
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=godot/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=java,sqlite/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=cloudflare,wordpress/" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=cpp/" />
+
+<h2 align=center>我会使用的工具</h2>
+
+<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=9&i=anaconda,cloudflare,git,gradle,idea,latex,linux,neovim,nginx,pycharm,vim,vscode,visualstudio,github,powershell,githubactions,/" /></p>
+
+<h2 align=center>我正在使用的操作系统</h2>
+<img src="https://skillicons.dev/icons?theme=dark&perline=9&i=arch,windows/" />
