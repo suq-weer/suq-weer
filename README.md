@@ -93,20 +93,16 @@ Sunday                   58 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 17 mins        █████████████████████░░░░   83.03 % 
-Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Shell Script             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ShanweiCultureSeafoodCuis1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -126,5 +122,5 @@ Ruby                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 14:00:02 UTC
+ Last Updated on 13/07/2025 13:32:10 UTC
 <!--END_SECTION:waka-->
