@@ -93,20 +93,16 @@ Sunday                   58 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     46 mins             █████████████████████░░░░   82.59 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Gradle                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SubTech                  55 mins             ████████████████████████░   97.89 % 
-ScienceAndMagic          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -126,5 +122,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 14:10:42 UTC
+ Last Updated on 03/08/2025 13:35:15 UTC
 <!--END_SECTION:waka-->
