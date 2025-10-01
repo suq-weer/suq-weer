@@ -93,20 +93,16 @@ Sunday                   67 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 45 mins       ███████████████████████░░   93.53 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTTP                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-commonSysBack            2 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +122,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2025 13:32:13 UTC
+ Last Updated on 01/10/2025 13:49:28 UTC
 <!--END_SECTION:waka-->
