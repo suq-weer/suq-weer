@@ -52,7 +52,7 @@
 <h2 align=center>My "Mental States"</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -93,16 +93,21 @@ Sunday                   67 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 38 mins       ███████████████████████░░   91.84 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+action_panel             2 hrs 50 mins       █████████████████████████   98.62 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -122,5 +127,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 14:09:35 UTC
+ Last Updated on 26/10/2025 13:26:28 UTC
 <!--END_SECTION:waka-->
