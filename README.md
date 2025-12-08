@@ -52,11 +52,11 @@
 <h2 align=center>My "Mental States"</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 92.6 kB Used in GitHub's Storage 
+> 📦 92.7 kB Used in GitHub's Storage 
  > 
 > 🏆 205 Contributions in the Year 2025
  > 
@@ -93,20 +93,17 @@ Sunday                   86 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 7 mins        ████████████████████████░   95.79 % 
-Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Java                     4 hrs 36 mins       █████████████████████████   99.99 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 20 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-action_panel             5 hrs 20 mins       █████████████████████████   100.00 % 
+action_panel             4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +123,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 14:19:15 UTC
+ Last Updated on 08/12/2025 13:37:41 UTC
 <!--END_SECTION:waka-->
