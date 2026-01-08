@@ -93,20 +93,16 @@ Sunday                   88 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     8 mins              ████████████████████████░   97.45 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-music_tools              8 mins              ████████████████████████░   97.46 % 
-action_panel             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-actionpanel              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +122,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 14:01:31 UTC
+ Last Updated on 08/01/2026 13:43:54 UTC
 <!--END_SECTION:waka-->
