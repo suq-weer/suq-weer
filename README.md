@@ -52,6 +52,8 @@
 <h2 align=center>My "Mental States"</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2058%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 92.7 kB Used in GitHub's Storage 
@@ -120,5 +122,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 13:47:32 UTC
+ Last Updated on 01/02/2026 14:14:04 UTC
 <!--END_SECTION:waka-->
