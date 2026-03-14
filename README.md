@@ -93,16 +93,20 @@ Sunday                   96 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 16 mins             ████████████████░░░░░░░░░   64.46 % 
+Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Kotlin                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             ██████████████████████░░░   86.37 % 
+IntelliJ IDEA            3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+neoTutorial              22 mins             ██████████████████████░░░   86.37 % 
+ocrtest                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -122,5 +126,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 14:02:21 UTC
+ Last Updated on 14/03/2026 13:50:22 UTC
 <!--END_SECTION:waka-->
