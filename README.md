@@ -43,6 +43,8 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%207%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 93.4 kB Used in GitHub's Storage 
@@ -111,5 +113,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 14:41:30 UTC
+ Last Updated on 24/05/2026 14:26:35 UTC
 <!--END_SECTION:waka-->
