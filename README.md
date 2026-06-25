@@ -84,16 +84,18 @@ Sunday                   103 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GDScript3                27 mins             ██████████████████████░░░   86.10 % 
+Godot Resource           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+neo_further              32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,5 +115,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 15:34:53 UTC
+ Last Updated on 25/06/2026 15:41:10 UTC
 <!--END_SECTION:waka-->
