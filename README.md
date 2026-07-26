@@ -43,6 +43,8 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2034%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 93.4 kB Used in GitHub's Storage 
@@ -82,18 +84,16 @@ Sunday                   103 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-GDScript3                2 hrs 24 mins       █████████████████████░░░░   85.57 % 
-Godot Resource           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Godot Resource           17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Trae                     2 hrs 48 mins       █████████████████████████   100.00 % 
+Trae                     17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo_further              2 hrs 48 mins       █████████████████████████   100.00 % 
+neo_further              17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,5 +113,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 14:58:47 UTC
+ Last Updated on 26/07/2026 14:38:16 UTC
 <!--END_SECTION:waka-->
