@@ -86,30 +86,29 @@ Sunday                   103 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     1 hr 15 mins        █████████████████░░░░░░░░   68.50 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Kotlin                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Dart                     59 mins             ████████████████░░░░░░░░░   63.28 % 
+Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Kotlin                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-Trae                     1 hr 50 mins        █████████████████████████   100.00 % 
+Trae                     1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-media_daylight           1 hr 29 mins        ████████████████████░░░░░   80.74 % 
-uno_game                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+media_daylight           1 hr 29 mins        ████████████████████████░   94.95 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 💻 Operating System: 
-Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (76.86%)
+⏱ AI Coding Time: 1 hr 25 mins (90.4%)
 
-✍️ 2,459 lines written by AI, 1,098 lines written by hand (69.13% AI-written)
+✍️ 2,459 lines written by AI, 2 lines written by hand (99.92% AI-written)
 
 🔤 254,809 Input Tokens, 44,948 Output Tokens
 
@@ -121,10 +120,10 @@ Deepseek                 2,606 lines         ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.13% of written lines came from AI
+🤖 AI-Driven — 99.92% of written lines came from AI
 📝 Concise Prompter — average 172 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 49.89% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -144,5 +143,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 14:37:46 UTC
+ Last Updated on 03/08/2026 15:45:14 UTC
 <!--END_SECTION:waka-->
