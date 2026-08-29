@@ -36,7 +36,7 @@
 <h2 align=center>我正在使用的操作系统</h2>
 
 
-| <img src="https://skillicons.dev/icons?theme=dark&i=arch,/" /> | 极致 arch 办公机</br>i5-4790+readon 200 series |
+| <img src="https://skillicons.dev/icons?theme=dark&i=arch,/" /> | 极致 arch 办公机</br>i5-4790+readon R7 240 |
 | :-------------------------------------------------------------: | :----------------------------------------- |
 
 
