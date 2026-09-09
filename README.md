@@ -16,7 +16,7 @@
 
 <h2 align=center>Hi，别来无恙啊！ 👋</h2>
 
-> 刚来 GitHub 的高中生，请多指教！
+> 今年终于是一位大学新生了，请多指教！
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suq-weer/suq-weer/output/github-snake-dark.svg">
