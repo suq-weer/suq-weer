@@ -49,7 +49,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 151.6 kB Used in GitHub's Storage 
+> 📦 151.7 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2026
  > 
@@ -86,47 +86,50 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      13 hrs 46 mins      ██████████████░░░░░░░░░░░   57.76 % 
-TypeScript               4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Rust                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Vue                      11 hrs 57 mins      █████████████░░░░░░░░░░░░   51.76 % 
+TypeScript               3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Markdown                 3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Rust                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 40 mins      █████████████████████████   98.20 % 
+Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🐱‍💻 Projects: 
-too-many-minecraft-launch19 hrs 49 mins      █████████████████████░░░░   83.13 % 
-Shirone                  3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-tmml                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+too-many-minecraft-launch15 hrs 24 mins      █████████████████░░░░░░░░   66.74 % 
+Shirone                  5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+tmml                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+HMCL                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Linux                    19 hrs 49 mins      █████████████████████░░░░   83.13 % 
-Windows                  4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Linux                    15 hrs 24 mins      █████████████████░░░░░░░░   66.74 % 
+Windows                  7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 36 mins (27.73%)
+⏱ AI Coding Time: 5 hrs 21 mins (23.17%)
 
-✍️ 5,503 lines written by AI, 1,814 lines written by hand (75.21% AI-written)
+✍️ 5,200 lines written by AI, 1,771 lines written by hand (74.59% AI-written)
 
-🔤 3,666,788 Input Tokens, 1,174,830 Output Tokens
+🔤 4,924,301 Input Tokens, 781,329 Output Tokens
 
-💵 $430.16 Estimated AI Cost This Week
+💵 $243.41 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 61 AI Prompts
+🧠 21 AI Sessions, 59 AI Prompts
 
-Deepseek                 5,859 lines         █████████████████████████   100.00 % 
+Deepseek                 5,332 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.21% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
+🤖 AI-Driven — 74.59% of written lines came from AI
+📝 Concise Prompter — average 172 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 35.42% of changed lines were hand-edited
+🚀 High AI Trust — 35.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -146,5 +149,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 09:13:11 UTC
+ Last Updated on 09/09/2026 17:04:53 UTC
 <!--END_SECTION:waka-->
