@@ -86,50 +86,50 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.52 % 
-Markdown                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-TypeScript               4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Rust                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Vue                      5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Markdown                 4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+TypeScript               4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Rust                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+MDX                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 49 mins      █████████████████████████   98.35 % 
-Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+VS Code                  18 hrs 38 mins      ████████████████████████░   97.82 % 
+Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-too-many-minecraft-launch13 hrs 28 mins      █████████████░░░░░░░░░░░░   53.40 % 
-Shirone                  7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
-tmml                     3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-HMCL                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Shirone                  7 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+too-many-minecraft-launch7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
+tmml                     3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+HMCL                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Linux                    13 hrs 28 mins      █████████████░░░░░░░░░░░░   53.40 % 
-Windows                  11 hrs 45 mins      ████████████░░░░░░░░░░░░░   46.60 % 
+Windows                  11 hrs 45 mins      ███████████████░░░░░░░░░░   61.70 % 
+Linux                    7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 17 mins (24.93%)
+⏱ AI Coding Time: 5 hrs 20 mins (27.99%)
 
-✍️ 5,620 lines written by AI, 1,520 lines written by hand (78.71% AI-written)
+✍️ 5,192 lines written by AI, 896 lines written by hand (85.28% AI-written)
 
-🔤 5,322,001 Input Tokens, 891,690 Output Tokens
+🔤 5,144,124 Input Tokens, 807,574 Output Tokens
 
-💵 $352.41 Estimated AI Cost This Week
+💵 $334.64 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 68 AI Prompts
+🧠 16 AI Sessions, 55 AI Prompts
 
-Deepseek                 5,770 lines         █████████████████████████   100.00 % 
+Deepseek                 5,322 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.71% of written lines came from AI
-📝 Concise Prompter — average 182 characters per prompt
+🤖 AI-Driven — 85.28% of written lines came from AI
+📝 Concise Prompter — average 204 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.45% of changed lines were hand-edited
+🚀 High AI Trust — 22.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -137,8 +137,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```text
 Java                     5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
 Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Rust                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
@@ -149,5 +149,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 16:57:37 UTC
+ Last Updated on 12/09/2026 16:06:09 UTC
 <!--END_SECTION:waka-->
