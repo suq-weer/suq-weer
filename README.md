@@ -43,15 +43,15 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 151.7 kB Used in GitHub's Storage 
+> 📦 151.9 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-🌆 Daytime                137 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌃 Evening                112 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌙 Night                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌆 Daytime                137 commits         ██████████░░░░░░░░░░░░░░░   41.52 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌙 Night                  57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Sunday                   104 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Sunday                   104 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
 ```
 
 
@@ -86,50 +86,50 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-TypeScript               4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Vue                      3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Rust                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-MDX                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.32 % 
+TypeScript               3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Rust                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Vue                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+MDX                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 54 mins      ████████████████████████░   97.60 % 
-Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+VS Code                  12 hrs 40 mins      ████████████████████████░   96.82 % 
+Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-Shirone                  8 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.36 % 
-too-many-minecraft-launch5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-tmml                     3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-HMCL                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Shirone                  8 hrs 14 mins       ████████████████░░░░░░░░░   63.01 % 
+tmml                     3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+too-many-minecraft-launch46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HMCL                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Windows                  12 hrs 14 mins      ██████████████████░░░░░░░   70.64 % 
-Linux                    5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Windows                  12 hrs 19 mins      ████████████████████████░   94.12 % 
+Linux                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 47 mins (27.69%)
+⏱ AI Coding Time: 3 hrs 6 mins (23.77%)
 
-✍️ 4,804 lines written by AI, 766 lines written by hand (86.25% AI-written)
+✍️ 2,924 lines written by AI, 540 lines written by hand (84.41% AI-written)
 
-🔤 4,984,590 Input Tokens, 733,585 Output Tokens
+🔤 4,679,474 Input Tokens, 522,728 Output Tokens
 
-💵 $319.07 Estimated AI Cost This Week
+💵 $261.23 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 50 AI Prompts
+🧠 9 AI Sessions, 33 AI Prompts
 
-Deepseek                 4,934 lines         █████████████████████████   100.00 % 
+Deepseek                 3,118 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.25% of written lines came from AI
-📝 Concise Prompter — average 215 characters per prompt
+🤖 AI-Driven — 84.41% of written lines came from AI
+📝 Concise Prompter — average 275 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.55% of changed lines were hand-edited
+🚀 High AI Trust — 23.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -149,5 +149,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 16:53:58 UTC
+ Last Updated on 14/09/2026 18:27:07 UTC
 <!--END_SECTION:waka-->
