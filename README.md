@@ -43,7 +43,7 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2052%20mins-blue?style=flat)
 
@@ -86,48 +86,50 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.06 % 
-TypeScript               3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Rust                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Vue                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-MDX                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Markdown                 4 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+Rust                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Vue                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Git Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 15 mins      ████████████████████████░   96.72 % 
-Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+VS Code                  8 hrs 55 mins       ████████████████████████░   94.00 % 
+Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🐱‍💻 Projects: 
-Shirone                  8 hrs 14 mins       ████████████████░░░░░░░░░   65.06 % 
-tmml                     4 hrs               ████████░░░░░░░░░░░░░░░░░   31.66 % 
-HMCL                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Shirone                  4 hrs 52 mins       █████████████░░░░░░░░░░░░   51.39 % 
+tmml                     4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
+HMCL                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+chuengfundelight         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  12 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   98.38 % 
+Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (21.03%)
+⏱ AI Coding Time: 2 hrs 35 mins (27.21%)
 
-✍️ 2,691 lines written by AI, 567 lines written by hand (82.6% AI-written)
+✍️ 2,691 lines written by AI, 504 lines written by hand (84.23% AI-written)
 
-🔤 4,530,150 Input Tokens, 476,227 Output Tokens
+🔤 2,834,931 Input Tokens, 330,076 Output Tokens
 
-💵 $242.17 Estimated AI Cost This Week
+💵 $227.96 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
+🧠 5 AI Sessions, 21 AI Prompts
 
 Deepseek                 2,996 lines         █████████████████████████   100.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.6% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.85% of changed lines were hand-edited
+🤖 AI-Driven — 84.23% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 17.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -147,5 +149,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 17:33:38 UTC
+ Last Updated on 16/09/2026 17:33:40 UTC
 <!--END_SECTION:waka-->
