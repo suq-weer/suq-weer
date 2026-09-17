@@ -86,50 +86,47 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.45 % 
-Rust                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Vue                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Git Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Markdown                 2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+TypeScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Rust                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Vue                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 55 mins       ████████████████████████░   94.00 % 
-Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+VS Code                  5 hrs 41 mins       ████████████████████████░   97.37 % 
+IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🐱‍💻 Projects: 
-Shirone                  4 hrs 52 mins       █████████████░░░░░░░░░░░░   51.39 % 
-tmml                     4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
-HMCL                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-chuengfundelight         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+tmml                     3 hrs 1 min         █████████████░░░░░░░░░░░░   51.66 % 
+Shirone                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
+chuengfundelight         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Windows                  9 hrs 20 mins       █████████████████████████   98.38 % 
-Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Windows                  5 hrs 41 mins       ████████████████████████░   97.37 % 
+Linux                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 35 mins (27.21%)
+⏱ AI Coding Time: 1 hr 17 mins (22.21%)
 
-✍️ 2,691 lines written by AI, 504 lines written by hand (84.23% AI-written)
+✍️ 459 lines written by AI, 349 lines written by hand (56.81% AI-written)
 
-🔤 2,834,931 Input Tokens, 330,076 Output Tokens
+🔤 494,623 Input Tokens, 129,683 Output Tokens
 
-💵 $227.96 Estimated AI Cost This Week
+💵 $129.33 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 21 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-Deepseek                 2,996 lines         █████████████████████████   100.00 % 
+Deepseek                 730 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.23% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
+⚖️ Balanced with AI — 56.81% of written lines came from AI
+📝 Concise Prompter — average 245 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.48% of changed lines were hand-edited
+🚀 High AI Trust — 46.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -149,5 +146,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 17:33:40 UTC
+ Last Updated on 17/09/2026 17:33:00 UTC
 <!--END_SECTION:waka-->
