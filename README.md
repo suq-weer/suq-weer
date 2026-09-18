@@ -62,21 +62,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                138 commits         ██████████░░░░░░░░░░░░░░░   41.69 % 
-🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
-🌙 Night                  57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌆 Daytime                138 commits         ██████████░░░░░░░░░░░░░░░   41.82 % 
+🌃 Evening                111 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Sunday                   104 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Sunday                   104 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
 ```
 
 
@@ -86,47 +86,30 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
-TypeScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Rust                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Vue                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 56 mins             █████████████░░░░░░░░░░░░   52.71 % 
+Vue                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Rust                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Java                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 41 mins       ████████████████████████░   97.37 % 
-IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+VS Code                  1 hr 37 mins        ███████████████████████░░   91.33 % 
+IntelliJ IDEA            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🐱‍💻 Projects: 
-tmml                     3 hrs 1 min         █████████████░░░░░░░░░░░░   51.66 % 
-Shirone                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
-chuengfundelight         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+tmml                     1 hr 5 mins         ███████████████░░░░░░░░░░   61.58 % 
+Shirone                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+chuengfundelight         9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 💻 Operating System: 
-Windows                  5 hrs 41 mins       ████████████████████████░   97.37 % 
-Linux                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Windows                  1 hr 37 mins        ███████████████████████░░   91.33 % 
+Linux                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (22.21%)
-
-✍️ 459 lines written by AI, 349 lines written by hand (56.81% AI-written)
-
-🔤 494,623 Input Tokens, 129,683 Output Tokens
-
-💵 $129.33 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 11 AI Prompts
-
-Deepseek                 730 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.81% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 46.46% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -146,5 +129,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 17:33:00 UTC
+ Last Updated on 18/09/2026 16:59:58 UTC
 <!--END_SECTION:waka-->
