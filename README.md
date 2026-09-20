@@ -59,24 +59,24 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-🌆 Daytime                138 commits         ██████████░░░░░░░░░░░░░░░   41.82 % 
-🌃 Evening                111 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌙 Night                  57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+🌆 Daytime                150 commits         ███████████░░░░░░░░░░░░░░   43.86 % 
+🌃 Evening                111 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  57 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   104 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Sunday                   116 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
 ```
 
 
@@ -86,24 +86,24 @@ Sunday                   104 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 56 mins             █████████████░░░░░░░░░░░░   52.71 % 
-Vue                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Rust                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Java                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Markdown                 27 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+Vue                      20 mins             ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Rust                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Java                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        ███████████████████████░░   91.33 % 
-IntelliJ IDEA            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+VS Code                  1 hr 8 mins         ██████████████████████░░░   88.06 % 
+IntelliJ IDEA            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 
 🐱‍💻 Projects: 
-tmml                     1 hr 5 mins         ███████████████░░░░░░░░░░   61.58 % 
-Shirone                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-chuengfundelight         9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+tmml                     1 hr 5 mins         █████████████████████░░░░   84.80 % 
+chuengfundelight         9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Shirone                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        ███████████████████████░░   91.33 % 
-Linux                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Windows                  1 hr 8 mins         ██████████████████████░░░   88.06 % 
+Linux                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,5 +129,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 16:19:22 UTC
+ Last Updated on 20/09/2026 16:43:46 UTC
 <!--END_SECTION:waka-->
