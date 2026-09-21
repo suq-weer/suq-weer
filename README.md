@@ -86,24 +86,23 @@ Sunday                   116 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
-Vue                      20 mins             ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Rust                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Java                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Markdown                 24 mins             █████████░░░░░░░░░░░░░░░░   34.09 % 
+Vue                      20 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Rust                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Java                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ██████████████████████░░░   88.06 % 
-IntelliJ IDEA            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+VS Code                  1 hr 3 mins         ██████████████████████░░░   87.25 % 
+IntelliJ IDEA            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 
 🐱‍💻 Projects: 
-tmml                     1 hr 5 mins         █████████████████████░░░░   84.80 % 
-chuengfundelight         9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Shirone                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+tmml                     1 hr 3 mins         ██████████████████████░░░   87.25 % 
+chuengfundelight         9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         ██████████████████████░░░   88.06 % 
-Linux                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Windows                  1 hr 3 mins         ██████████████████████░░░   87.25 % 
+Linux                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,5 +128,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 16:43:46 UTC
+ Last Updated on 21/09/2026 18:33:44 UTC
 <!--END_SECTION:waka-->
