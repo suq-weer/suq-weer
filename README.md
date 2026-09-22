@@ -43,7 +43,7 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2052%20mins-blue?style=flat)
 
@@ -86,23 +86,23 @@ Sunday                   116 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 mins             █████████░░░░░░░░░░░░░░░░   34.09 % 
-Vue                      20 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-Rust                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Java                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Vue                      29 mins             ████████████████░░░░░░░░░   65.50 % 
+Java                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Rust                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         ██████████████████████░░░   87.25 % 
-IntelliJ IDEA            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+VS Code                  36 mins             ████████████████████░░░░░   79.61 % 
+IntelliJ IDEA            9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
 
 🐱‍💻 Projects: 
-tmml                     1 hr 3 mins         ██████████████████████░░░   87.25 % 
-chuengfundelight         9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+tmml                     36 mins             ████████████████████░░░░░   79.61 % 
+chuengfundelight         9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         ██████████████████████░░░   87.25 % 
-Linux                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Windows                  36 mins             ████████████████████░░░░░   79.61 % 
+Linux                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,5 +128,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 18:33:44 UTC
+ Last Updated on 22/09/2026 17:34:23 UTC
 <!--END_SECTION:waka-->
