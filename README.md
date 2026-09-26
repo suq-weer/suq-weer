@@ -43,7 +43,7 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs-blue?style=flat)
 
@@ -86,27 +86,28 @@ Sunday                   116 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 mins             ██████████████░░░░░░░░░░░   57.07 % 
-JSON                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Vue                      13 mins             ███████████████░░░░░░░░░░   59.35 % 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tmml                     13 mins             ███████████████████░░░░░░   76.72 % 
-Unknown Project          4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+tmml                     19 mins             ████████████████████░░░░░   81.95 % 
+Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (42.93%)
+⏱ AI Coding Time: 7 mins (33.27%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -138,5 +139,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 17:50:41 UTC
+ Last Updated on 26/09/2026 16:57:30 UTC
 <!--END_SECTION:waka-->
