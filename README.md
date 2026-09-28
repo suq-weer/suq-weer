@@ -86,28 +86,28 @@ Sunday                   116 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      13 mins             ███████████████░░░░░░░░░░   59.35 % 
-JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JSON                     4 mins              ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Other                    3 mins              ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Vue                      3 mins              ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tmml                     19 mins             ████████████████████░░░░░   81.95 % 
-Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+tmml                     8 mins              █████████████████░░░░░░░░   67.64 % 
+Unknown Project          4 mins              ████████░░░░░░░░░░░░░░░░░   32.36 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (33.27%)
+⏱ AI Coding Time: 7 mins (59.67%)
 
-✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -139,5 +139,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 17:36:40 UTC
+ Last Updated on 28/09/2026 20:02:59 UTC
 <!--END_SECTION:waka-->
