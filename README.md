@@ -86,40 +86,23 @@ Sunday                   116 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     4 mins              ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Other                    3 mins              ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Vue                      3 mins              ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Vue                      3 mins              █████████████████░░░░░░░░   67.21 % 
+TypeScript               1 min               ████████░░░░░░░░░░░░░░░░░   32.79 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tmml                     8 mins              █████████████████░░░░░░░░   67.64 % 
-Unknown Project          4 mins              ████████░░░░░░░░░░░░░░░░░   32.36 % 
+tmml                     5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (59.67%)
-
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 6 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -139,5 +122,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 18:19:44 UTC
+ Last Updated on 01/10/2026 18:44:44 UTC
 <!--END_SECTION:waka-->
