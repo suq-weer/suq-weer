@@ -43,40 +43,36 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 155.1 kB Used in GitHub's Storage 
+> 📦 155.3 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
+> 🏆 67 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                143 commits         ███████████░░░░░░░░░░░░░░   44.41 % 
-🌃 Evening                109 commits         ████████░░░░░░░░░░░░░░░░░   33.85 % 
-🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+🌆 Daytime                145 commits         ███████████░░░░░░░░░░░░░░   44.75 % 
+🌃 Evening                109 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   113 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Sunday                   113 commits         █████████░░░░░░░░░░░░░░░░   34.88 % 
 ```
 
 
@@ -86,16 +82,21 @@ Sunday                   113 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 46 mins        ███████████████████░░░░░░   74.27 % 
+Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GepoMCSkinPixelEDM       2 hrs 9 mins        ███████████████████████░░   90.15 % 
+FunctionalCity           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,11 +108,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Java                     7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -121,5 +122,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 18:19:03 UTC
+ Last Updated on 04/11/2026 02:00:32 UTC
 <!--END_SECTION:waka-->
