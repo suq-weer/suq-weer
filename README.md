@@ -43,7 +43,7 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs-blue?style=flat)
 
@@ -86,21 +86,22 @@ Sunday                   113 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ███████████████████░░░░░░   74.27 % 
-Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   1 hr 46 mins        █████████████████░░░░░░░░   69.05 % 
+Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Trae                     2 hrs 23 mins       █████████████████████████   100.00 % 
+Trae                     2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GepoMCSkinPixelEDM       2 hrs 9 mins        ███████████████████████░░   90.15 % 
-FunctionalCity           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+GepoMCSkinPixelEDM       2 hrs 9 mins        █████████████████████░░░░   83.81 % 
+FunctionalCity           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+functional_city          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,5 +127,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 20:20:28 UTC
+ Last Updated on 05/11/2026 20:31:17 UTC
 <!--END_SECTION:waka-->
