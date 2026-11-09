@@ -51,32 +51,32 @@
 
 > 📦 155.4 kB Used in GitHub's Storage 
  > 
-> 🏆 67 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-🌆 Daytime                145 commits         ███████████░░░░░░░░░░░░░░   44.75 % 
-🌃 Evening                109 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+🌆 Daytime                138 commits         ███████████░░░░░░░░░░░░░░   44.66 % 
+🌃 Evening                107 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   113 commits         █████████░░░░░░░░░░░░░░░░   34.88 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   100 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
 ```
 
 
@@ -86,22 +86,21 @@ Sunday                   113 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        █████████████████░░░░░░░░   69.05 % 
-Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python                   1 hr 46 mins        ███████████████████░░░░░░   76.01 % 
+Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Trae                     2 hrs 34 mins       █████████████████████████   100.00 % 
+Trae                     2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GepoMCSkinPixelEDM       2 hrs 9 mins        █████████████████████░░░░   83.81 % 
-FunctionalCity           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-functional_city          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+GepoMCSkinPixelEDM       2 hrs 9 mins        ███████████████████████░░   92.26 % 
+functional_city          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,11 +112,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
-Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 
@@ -127,5 +126,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 18:15:55 UTC
+ Last Updated on 09/11/2026 22:55:45 UTC
 <!--END_SECTION:waka-->
