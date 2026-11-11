@@ -43,7 +43,7 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs-blue?style=flat)
 
@@ -86,27 +86,46 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     36 mins             ███████████████████████░░   90.83 % 
-XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.14 % 
+Markdown                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Groovy                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Trae                     24 mins             ███████████████░░░░░░░░░░   60.13 % 
-IntelliJ IDEA            16 mins             ██████████░░░░░░░░░░░░░░░   39.87 % 
+IntelliJ IDEA            3 hrs 20 mins       ███████████████░░░░░░░░░░   59.12 % 
+VS Code                  2 hrs               █████████░░░░░░░░░░░░░░░░   35.55 % 
+Trae                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🐱‍💻 Projects: 
-functional_city          40 mins             █████████████████████████   100.00 % 
+functional_city          2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.04 % 
+Shirone                  2 hrs               █████████░░░░░░░░░░░░░░░░   35.55 % 
+Ponder                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 31 mins (44.57%)
+
+✍️ 3,133 lines written by AI, 181 lines written by hand (94.54% AI-written)
+
+🔤 1,674,211 Input Tokens, 532,624 Output Tokens
+
+💵 $747.93 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 14 AI Prompts
+
+DeepSeek                 3,913 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.54% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +145,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 20:21:19 UTC
+ Last Updated on 11/11/2026 20:04:15 UTC
 <!--END_SECTION:waka-->
