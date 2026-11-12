@@ -43,15 +43,15 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.4 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 69 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,56 +86,57 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.14 % 
-Markdown                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Groovy                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Java                     2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
+Markdown                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Groovy                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Java Properties          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 20 mins       ███████████████░░░░░░░░░░   59.12 % 
-VS Code                  2 hrs               █████████░░░░░░░░░░░░░░░░   35.55 % 
-Trae                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+IntelliJ IDEA            4 hrs 38 mins       █████████████████░░░░░░░░   66.42 % 
+VS Code                  2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Trae                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🐱‍💻 Projects: 
-functional_city          2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.04 % 
-Shirone                  2 hrs               █████████░░░░░░░░░░░░░░░░   35.55 % 
-Ponder                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+functional_city          4 hrs 3 mins        ██████████████░░░░░░░░░░░   57.99 % 
+Shirone                  2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Ponder                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 
 💻 Operating System: 
-Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (44.57%)
+⏱ AI Coding Time: 3 hrs 17 mins (46.97%)
 
-✍️ 3,133 lines written by AI, 181 lines written by hand (94.54% AI-written)
+✍️ 3,286 lines written by AI, 560 lines written by hand (85.44% AI-written)
 
-🔤 1,674,211 Input Tokens, 532,624 Output Tokens
+🔤 2,018,406 Input Tokens, 554,858 Output Tokens
 
-💵 $747.93 Estimated AI Cost This Week
+💵 $751.10 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 6 AI Sessions, 20 AI Prompts
 
-DeepSeek                 3,913 lines         █████████████████████████   100.00 % 
+DeepSeek                 3,913 lines         ████████████████████████░   95.84 % 
+GPT                      170 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.54% of written lines came from AI
-📝 Concise Prompter — average 200 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.65% of changed lines were hand-edited
+🤖 AI-Driven — 85.44% of written lines came from AI
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 16.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -145,5 +146,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2026 20:04:15 UTC
+ Last Updated on 12/11/2026 20:42:29 UTC
 <!--END_SECTION:waka-->
