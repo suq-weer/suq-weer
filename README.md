@@ -43,7 +43,7 @@
 <h2 align=center>最近的开发活动</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2034%20mins-blue?style=flat)
 
@@ -86,33 +86,33 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 21 mins       ██████████████░░░░░░░░░░░   54.18 % 
-Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Java Properties          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Groovy                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Java                     7 hrs 5 mins        ██████████████░░░░░░░░░░░   56.28 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Java Properties          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Groovy                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 58 mins       ███████████████████░░░░░░   76.36 % 
-VS Code                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Trae                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+IntelliJ IDEA            9 hrs 17 mins       ██████████████████░░░░░░░   73.84 % 
+VS Code                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Trae                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
 🐱‍💻 Projects: 
-functional_city          8 hrs 31 mins       ██████████████████░░░░░░░   72.55 % 
-Shirone                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Ponder                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-2.184.0                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+functional_city          9 hrs 22 mins       ███████████████████░░░░░░   74.40 % 
+Shirone                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Ponder                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+2.184.0                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (38.93%)
+⏱ AI Coding Time: 4 hrs 34 mins (36.31%)
 
-✍️ 4,176 lines written by AI, 2,623 lines written by hand (61.42% AI-written)
+✍️ 4,176 lines written by AI, 3,163 lines written by hand (56.9% AI-written)
 
 🔤 2,759,146 Input Tokens, 779,039 Output Tokens
 
@@ -124,20 +124,20 @@ DeepSeek                 4,961 lines         ███████████�
 GPT                      170 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.42% of written lines came from AI
+⚖️ Balanced with AI — 56.9% of written lines came from AI
 📝 Concise Prompter — average 372 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 54.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Rust                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 
@@ -147,5 +147,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2026 22:47:40 UTC
+ Last Updated on 17/11/2026 21:36:05 UTC
 <!--END_SECTION:waka-->
