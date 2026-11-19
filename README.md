@@ -86,45 +86,44 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 35 mins       ███████████████████░░░░░░   75.20 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Java Properties          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Gradle                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Java                     4 hrs 34 mins       ███████████████████░░░░░░   75.19 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Java Properties          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Gradle                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 13 mins       █████████████████████░░░░   83.77 % 
-Trae                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+IntelliJ IDEA            4 hrs 55 mins       ████████████████████░░░░░   80.81 % 
+Trae                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
 
 🐱‍💻 Projects: 
-functional_city          7 hrs 8 mins        ████████████████████████░   96.13 % 
-2.184.0                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+functional_city          5 hrs 48 mins       ████████████████████████░   95.28 % 
+2.184.0                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 💻 Operating System: 
-Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (27.63%)
+⏱ AI Coding Time: 1 hr 17 mins (21.15%)
 
-✍️ 1,043 lines written by AI, 2,996 lines written by hand (25.82% AI-written)
+✍️ 890 lines written by AI, 2,617 lines written by hand (25.38% AI-written)
 
-🔤 1,084,935 Input Tokens, 246,415 Output Tokens
+🔤 740,740 Input Tokens, 224,181 Output Tokens
 
-💵 $262.86 Estimated AI Cost This Week
+💵 $259.69 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 1 AI Sessions, 12 AI Prompts
 
-DeepSeek                 1,048 lines         ██████████████████████░░░   86.04 % 
-GPT                      170 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+DeepSeek                 1,048 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.82% of written lines came from AI
-📄 Detailed Prompter — average 506 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 86.62% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.38% of written lines came from AI
+📄 Detailed Prompter — average 639 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 87.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -144,5 +143,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 21:11:48 UTC
+ Last Updated on 19/11/2026 21:15:05 UTC
 <!--END_SECTION:waka-->
