@@ -86,44 +86,27 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 48 mins       ████████████████████░░░░░   79.62 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Java                     1 hr 57 mins        █████████████████████░░░░   83.92 % 
+XML                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 44 mins       ████████████████████░░░░░   78.08 % 
-Trae                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+IntelliJ IDEA            1 hr 17 mins        ██████████████░░░░░░░░░░░   55.17 % 
+Trae                     1 hr 2 mins         ███████████░░░░░░░░░░░░░░   44.83 % 
 
 🐱‍💻 Projects: 
-functional_city          4 hrs 30 mins       ████████████████████████░   94.00 % 
-2.184.0                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+functional_city          2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (26.91%)
-
-✍️ 890 lines written by AI, 2,575 lines written by hand (25.69% AI-written)
-
-🔤 740,740 Input Tokens, 224,181 Output Tokens
-
-💵 $259.69 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 12 AI Prompts
-
-DeepSeek                 1,048 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.69% of written lines came from AI
-📄 Detailed Prompter — average 639 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 87.31% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -143,5 +126,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 19:59:43 UTC
+ Last Updated on 22/11/2026 20:13:07 UTC
 <!--END_SECTION:waka-->
