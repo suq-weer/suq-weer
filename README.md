@@ -86,21 +86,16 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 9 mins         ██████████████████████░░░   86.29 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     44 mins             ██████████████░░░░░░░░░░░   55.36 % 
-IntelliJ IDEA            35 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-functional_city          1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,5 +121,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 00:39:20 UTC
+ Last Updated on 24/11/2026 22:57:36 UTC
 <!--END_SECTION:waka-->
