@@ -86,21 +86,21 @@ Sunday                   100 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 57 mins        █████████████████████░░░░   83.92 % 
-XML                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Java                     1 hr 9 mins         ██████████████████████░░░   86.29 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 17 mins        ██████████████░░░░░░░░░░░   55.17 % 
-Trae                     1 hr 2 mins         ███████████░░░░░░░░░░░░░░   44.83 % 
+Trae                     44 mins             ██████████████░░░░░░░░░░░   55.36 % 
+IntelliJ IDEA            35 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
 
 🐱‍💻 Projects: 
-functional_city          2 hrs 20 mins       █████████████████████████   100.00 % 
+functional_city          1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,5 +126,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suq-weer/suq-weer/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 20:13:07 UTC
+ Last Updated on 24/11/2026 00:39:20 UTC
 <!--END_SECTION:waka-->
